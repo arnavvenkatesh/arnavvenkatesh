@@ -4,7 +4,7 @@ Student | Aspiring Aerospace Engineer | Researcher in Space & AI
 ---
 
 ## About Me  
-I am a high school student (Class 11, CBSE – PCMC) passionate about aerospace engineering, space exploration, and the use of AI in satellite systems and astronomy.  
+I am a high school student (Class 12, CBSE – PCMC) passionate about aerospace engineering, space exploration, and the use of AI in satellite systems and astronomy.  
 My current focus is on:  
 - Building a **CubeSat prototype** (1U, custom hardware + software)  
 - Developing **AI models for satellite image analysis** (e.g. deforestation detection)  
