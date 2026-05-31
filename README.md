@@ -14,7 +14,7 @@ My current focus is on:
 
 ## Featured Projects  
 - [**Satellite Deforestation Detection**](https://github.com/arnavvenkatesh/satellite-deforestation-detection) → ML pipeline that detects deforestation from satellite imagery & alerts users in real time.  
-- [**CubeSat Prototype**](https://github.com/arnavvenkatesh/cubesat-prototype) → Ongoing 1U CubeSat project with integrated sensors, cameras, and magnetorquers.  
+- [**CubeSat Prototype**](https://github.com/arnavvenkatesh/cubesat-prototype) → Completed 1U CubeSat project with integrated sensors, cameras, and magnetorquers.  
 - [**Exoplanet Habitability Predictor**](https://kabirbatman-coder.github.io/exoplanet-habitability-predictor/) *(to be published)* → ML-based model to evaluate exoplanetary conditions for potential habitability.  
 
 ---
