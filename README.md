@@ -9,7 +9,7 @@ My current focus is on:
 ---
 
 ## Featured Projects  
-- [**Space Systems Lab**]([https://github.com/arnavvenkatesh/satellite-deforestation-detection](https://github.com/arnavvenkatesh/space-systems-lab)) → Satellite systems and orbital mechanics simulator
+- [**Space Systems Lab**](https://github.com/arnavvenkatesh/space-systems-lab) → Satellite systems and orbital mechanics simulator
 - [**CubeSat Prototype**](https://github.com/arnavvenkatesh/cubesat-prototype) → Completed 1U CubeSat project with integrated sensors, cameras, and magnetorquers.  
 - [**Exoplanet Habitability Predictor**](https://kabirbatman-coder.github.io/exoplanet-habitability-predictor/) *(to be published)* → ML-based model to evaluate exoplanetary conditions for potential habitability.  
 
