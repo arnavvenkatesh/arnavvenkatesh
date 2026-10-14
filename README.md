@@ -1,5 +1,4 @@
 # Hello there, I'm Arnav Venkatesh  
----
 
 ## About Me  
 I am a high school student (Class 12, CBSE – PCMC) passionate about aerospace engineering, space exploration, and the use of AI in satellite systems and astronomy.  
