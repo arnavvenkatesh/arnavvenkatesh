@@ -1,6 +1,4 @@
 # Hello there, I'm Arnav Venkatesh  
-Student | Aspiring Aerospace Engineer | Researcher in Space & AI  
-
 ---
 
 ## About Me  
